@@ -1,0 +1,13 @@
+img/*.gif
+img/*.png
+img/*.jpg
+*.aux
+*.dvi
+*.log
+*.nav
+*.out
+*.pdf
+*.ps
+*.snm
+*.toc
+tables
